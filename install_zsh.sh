@@ -15,3 +15,6 @@ cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
 chsh -s /bin/zsh
 
 echo "Now restart the System to see Zsh into action"
+
+echo " In case you wish to set your shell back to bash, change chsh -s /bin/zsh to chsh -s /bin/bash"
+
