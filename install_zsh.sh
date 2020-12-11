@@ -6,6 +6,7 @@
 # this script allows you to install zsh on your pc by establishing a connection to the internet
 
 sudo apt install zsh
+
 sudo apt-get install powerline fonts-powerline
 
 git clone https://github.com/robbyrussell/oh-my-zsh.git ~/.oh-my-zsh
