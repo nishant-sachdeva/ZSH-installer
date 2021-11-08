@@ -5,6 +5,8 @@
 # ubuntu 18.04
 # this script allows you to install zsh on your pc by establishing a connection to the internet
 
+echo "We are going to start Zsh installation"
+
 sudo apt install zsh
 
 sudo apt-get install powerline fonts-powerline
